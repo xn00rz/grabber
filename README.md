@@ -7,8 +7,9 @@ Grabber is a tool that has been made to scan a portion of IP and search for head
 Utility was tested on a *python2.6*, *python2.7*, *python3.6* with SQLite FTS4 support. If you have found any bugs, don't hesitate to open issue
 
 # How to use
-[![asciicast](https://asciinema.org/a/zlK7CSe6Kk6JeEY2DGkBDyAbj)]
+[![asciicast]()]
 
+[![asciicast](https://asciinema.org/a/ObuaXdpxNO0nAo6o821fLCLxZ.png)](https://asciinema.org/a/zlK7CSe6Kk6JeEY2DGkBDyAbj?autoplay=1)
 
 # command line
 python3 grabber -i ip
